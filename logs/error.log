@@ -1,0 +1,134 @@
+2021-02-22 00:12:58 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:13:58 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:14:53 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:22:26 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:22:28 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:22:57 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:22:57 Error: [Cake\Http\Exception\InvalidCsrfTokenException] Missing or invalid CSRF cookie. in C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php on line 385
+Stack Trace:
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:165
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\bizut\cadastro\webroot\index.php:40
+
+Request URL: /usuarios/add
+Referer URL: http://bizut.pc/cadastro/usuarios/add
+Client IP: 127.0.0.1
+
+
+2021-02-22 00:23:07 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:25:54 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 00:31:28 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:29:27 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:29:27 Error: [Cake\Http\Exception\MissingControllerException] Controller class Cadastro could not be found. in C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 229
+Exception Attributes: array (
+  'class' => 'Cadastro',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\bizut\cadastro\webroot\index.php:40
+
+Request URL: /cadastro
+Client IP: 127.0.0.1
+
+
+2021-02-22 03:29:51 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:29:51 Error: [Cake\Http\Exception\MissingControllerException] Controller class Cadastro could not be found. in C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 229
+Exception Attributes: array (
+  'class' => 'Cadastro',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\bizut\cadastro\webroot\index.php:40
+
+Request URL: /cadastro
+Client IP: 127.0.0.1
+
+
+2021-02-22 03:29:52 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:29:52 Error: [Cake\Http\Exception\MissingControllerException] Controller class Cadastro could not be found. in C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 229
+Exception Attributes: array (
+  'class' => 'Cadastro',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\bizut\cadastro\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\bizut\cadastro\webroot\index.php:40
+
+Request URL: /cadastro
+Client IP: 127.0.0.1
+
+
+2021-02-22 03:30:16 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:32:49 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:33:41 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:34:01 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:35:04 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:35:47 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:36:42 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:11 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:12 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:18 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:30 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:31 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:41 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
+2021-02-22 03:37:49 Warning: DebugKit is disabling itself as your host `bizut.pc` is not in the known safe list of top-level-domains (localhost, invalid, test, example, local). If you would like to force DebugKit on use the `DebugKit.forceEnable` Configure option.
